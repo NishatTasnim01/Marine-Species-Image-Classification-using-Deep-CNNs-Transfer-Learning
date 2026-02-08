@@ -87,7 +87,6 @@ Grad-CAM (Gradient-weighted Class Activation Mapping) is used to highlight image
 
 ```bash
 ├── marine_species_deep_cnns_transfer_learning.ipynb
-├── Output.zip
 └── README.md
 ```
 
