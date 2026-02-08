@@ -1,4 +1,4 @@
-# 🐙 Sea Animals Classification using Deep CNNs & Transfer Learning
+# 🐙 Marine Species Image Classification using Deep CNNs & Transfer Learning
 
 This repository presents a **multi-class image classification project** that identifies different sea animals using **Deep Convolutional Neural Networks (CNNs)** and **Transfer Learning with EfficientNetB7**.
 The model is trained on a diverse marine life image dataset and evaluated using standard classification metrics.
